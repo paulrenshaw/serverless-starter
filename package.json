@@ -1,0 +1,23 @@
+{
+  "name": "serverless-starter",
+  "version": "0.1.0",
+  "description": "Serverless Starter Project with interchangeable frontend and backend frameworks as submodules.",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulrenshaw/serverless-starter.git"
+  },
+  "keywords": [
+    "serverless",
+    "starter"
+  ],
+  "author": "Paul Renshaw <paul@renshaw.digital>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulrenshaw/serverless-starter/issues"
+  },
+  "homepage": "https://github.com/paulrenshaw/serverless-starter#readme"
+}
