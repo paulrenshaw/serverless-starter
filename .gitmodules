@@ -1,3 +1,6 @@
 [submodule "firebase-functions"]
 	path = firebase-functions
 	url = git@github.com:paulrenshaw/serverless-starter-firebase-functions.git
+[submodule "next"]
+	path = next
+	url = git@github.com:paulrenshaw/serverless-starter-next.git
